@@ -3761,10 +3761,11 @@ input, select, textarea {
 	#main {
 		background-color: #ffffff;
 		position: relative;
-		margin: 0 auto;
+		margin: 20px auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
+		border-radius: 30px
 	}
 
 		#main > * {
